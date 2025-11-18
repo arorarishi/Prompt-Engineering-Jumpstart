@@ -80,8 +80,8 @@ Chapter | Status | Link
 ---|---|---
 **01: The 5-Minute Mindset** | ✅ **Complete** | [Chapter 1](Chapters/Chapter%201%20-%20Five%20Minute%20Mindset.md)
 **02: Your First Magic Prompt** | ✅ **Complete** | [Chapter 2](Chapters/Chapter%202%20-%20Your%20First%20Magic%20Prompt.md)
-**03: The Persona Pattern** | 🚧 **In Progress** | Link 
-**04: Show and Tell (Few-Shot Learning)** | ⌛ **To Do**  | Link 
+**03: The Persona Pattern** | ✅ **Complete** | [Chapter 3](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/main/Chapters/Chapter%2003%20%E2%80%94%20The%20Persona%20Pattern%20(%22Act%20as%E2%80%A6%22).md
+**04: Show and Tell (Few-Shot Learning)** | 🚧 **In Progress**  | Link 
 **05: Thinking Out Loud (Chain-of-Thought)** | ⌛ **To Do** | Link 
 **06: Taming the Output (Formatting)** | ⌛ **To Do** | Link 
 **07: The Art of the Follow-Up (Iteration)** | ⌛ **To Do** | Link 
