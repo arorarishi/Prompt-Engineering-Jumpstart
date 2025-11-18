@@ -76,22 +76,22 @@ This book fills that gap. It's the gentle, practical introduction I wish I had w
 
 This means the content is being created right now. Chapters will appear below as they are completed. What you see is a work in progress, evolving in real time.
 
-Chapter | Status | 
+Chapter | Status | Link
 ---|---|---
 **01: The 5-Minute Mindset** | ✅ **Complete** | [Chapter 1](Chapters/Chapter%201%20-%20Five%20Minute%20Mindset.md)
 **02: Your First Magic Prompt** | 🚧 **In Progress** | Link 
 **03: The Persona Pattern** | 🚧 **In Progress** | Link 
-**04: Show and Tell (Few-Shot Learning)** | ⌛ **To Do**  
-**05: Thinking Out Loud (Chain-of-Thought)** | ⌛ **To Do** 
-**06: Taming the Output (Formatting)** | ⌛ **To Do** 
-**07: The Art of the Follow-Up (Iteration)** | ⌛ **To Do** 
-**08: Negative Prompting** | ⌛ **To Do** 
-**09: Task Chaining** | ⌛ **To Do** 
-**10: The Prompt Recipe Book (Cheat Sheet)** | ⌛ **To Do** 
-**11: Prompting for Images** | ⌛ **To Do** 
-**12: Testing Your Prompts** | ⌛ **To Do** 
-**13: Avoiding Bad Answers (Ethics/Limitations)** | ⌛ **To Do** 
-**14: Putting It All Together (Capstone)** | ⌛ **To Do** 
+**04: Show and Tell (Few-Shot Learning)** | ⌛ **To Do**  | Link 
+**05: Thinking Out Loud (Chain-of-Thought)** | ⌛ **To Do** | Link 
+**06: Taming the Output (Formatting)** | ⌛ **To Do** | Link 
+**07: The Art of the Follow-Up (Iteration)** | ⌛ **To Do** | Link 
+**08: Negative Prompting** | ⌛ **To Do** | Link 
+**09: Task Chaining** | ⌛ **To Do** | Link 
+**10: The Prompt Recipe Book (Cheat Sheet)** | ⌛ **To Do** | Link 
+**11: Prompting for Images** | ⌛ **To Do** | Link 
+**12: Testing Your Prompts** | ⌛ **To Do** | Link 
+**13: Avoiding Bad Answers (Ethics/Limitations)** | ⌛ **To Do** | Link 
+**14: Putting It All Together (Capstone)** | ⌛ **To Do** | Link 
 
 **Star this repo ⭐** to get notified as new chapters drop and to show your support!
 
