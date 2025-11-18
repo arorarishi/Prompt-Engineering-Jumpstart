@@ -79,7 +79,7 @@ This means the content is being created right now. Chapters will appear below as
 Chapter | Status | Link
 ---|---|---
 **01: The 5-Minute Mindset** | ✅ **Complete** | [Chapter 1](Chapters/Chapter%201%20-%20Five%20Minute%20Mindset.md)
-**02: Your First Magic Prompt** | 🚧 **In Progress** | Link 
+**02: Your First Magic Prompt** | ✅ **Complete** | [Chapter 2](Chapters/Chapter%202%20-%20Your%20First%20Magic%20Prompt.md)
 **03: The Persona Pattern** | 🚧 **In Progress** | Link 
 **04: Show and Tell (Few-Shot Learning)** | ⌛ **To Do**  | Link 
 **05: Thinking Out Loud (Chain-of-Thought)** | ⌛ **To Do** | Link 
