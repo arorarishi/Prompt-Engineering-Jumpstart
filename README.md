@@ -81,7 +81,17 @@ Chapter | Status
 **01: The 5-Minute Mindset** | ✅ **Complete**
 **02: Your First Magic Prompt** | ✅ **Complete**
 **03: The Persona Pattern** | 🚧 **In Progress**
-**04-14** | ⌛ **To Do**
+**04: Show and Tell (Few-Shot Learning)** | ⌛ **To Do** 
+**05: Thinking Out Loud (Chain-of-Thought)** | ⌛ **To Do** 
+**06: Taming the Output (Formatting)** | ⌛ **To Do** 
+**07: The Art of the Follow-Up (Iteration)** | ⌛ **To Do** 
+**08: Negative Prompting** | ⌛ **To Do** 
+**09: Task Chaining** | ⌛ **To Do** 
+**10: The Prompt Recipe Book (Cheat Sheet)** | ⌛ **To Do** 
+**11: Prompting for Images** | ⌛ **To Do** 
+**12: Testing Your Prompts** | ⌛ **To Do** 
+**13: Avoiding Bad Answers (Ethics/Limitations)** | ⌛ **To Do** 
+**14: Putting It All Together (Capstone)** | ⌛ **To Do** 
 
 **Star this repo ⭐** to get notified as new chapters drop and to show your support!
 
@@ -97,7 +107,7 @@ Let's make this the best resource possible, together.
 
 ## 📜 License
 
-This work is licensed under a [MIT License](https://deepinfra.com/LICENSE). You are free to share and adapt the material, just provide attribution.
+This work is licensed under a [MIT License](/LICENSE). You are free to share and adapt the material, just provide attribution.
 
 * * *
 
