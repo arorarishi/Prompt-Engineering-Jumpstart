@@ -70,7 +70,7 @@ This book fills that gap. It's the gentle, practical introduction I wish I had w
 -   Start with `chapter-1.md`.
 -   The `/examples` folder (coming soon) will contain practical examples and cheat sheets.
 
-## 🔄 Current Status: **Writing Sprint!** (EST: May 2024)
+## 🔄 Current Status: **Writing Sprint!** (EST: Nov  2025)
 
 **I am publishing this book live, chapter-by-chapter, over a 7-day writing sprint!**
 
@@ -80,7 +80,7 @@ Chapter | Status | Link
 ---|---|---
 **01: The 5-Minute Mindset** | ✅ **Complete** | [Chapter 1](Chapters/Chapter%201%20-%20Five%20Minute%20Mindset.md)
 **02: Your First Magic Prompt** | ✅ **Complete** | [Chapter 2](Chapters/Chapter%202%20-%20Your%20First%20Magic%20Prompt.md)
-**03: The Persona Pattern** | ✅ **Complete** | [Chapter 3](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/main/Chapters/Chapter%2003%20%E2%80%94%20The%20Persona%20Pattern%20(%22Act%20as%E2%80%A6%22).md
+**03: The Persona Pattern** | ✅ **Complete** | [Chapter 3](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/main/Chapters/Chapter%2003%20%E2%80%94%20The%20Persona%20Pattern%20(%22Act%20as%E2%80%A6%22).md)
 **04: Show and Tell (Few-Shot Learning)** | 🚧 **In Progress**  | Link 
 **05: Thinking Out Loud (Chain-of-Thought)** | ⌛ **To Do** | Link 
 **06: Taming the Output (Formatting)** | ⌛ **To Do** | Link 
