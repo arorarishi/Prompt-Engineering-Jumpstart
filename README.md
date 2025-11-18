@@ -2,7 +2,7 @@
 
 **The Absolute Beginner's Guide to Talking with AI**
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-blue?logo=github)](https://github.com/your-username/Prompt-Engineering-Jumpstart) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Status: Writing](https://img.shields.io/badge/Status-Writing%20Sprint-orange)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-blue?logo=github)](https://github.com/arorarishi/Prompt-Engineering-Jumpstart) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Status: Writing](https://img.shields.io/badge/Status-Writing%20Sprint-orange)
 
 > **Stop getting weird answers from AI. Start getting exactly what you want.**
 
@@ -76,12 +76,12 @@ This book fills that gap. It's the gentle, practical introduction I wish I had w
 
 This means the content is being created right now. Chapters will appear below as they are completed. What you see is a work in progress, evolving in real time.
 
-Chapter | Status
----|---
-**01: The 5-Minute Mindset** | ✅ **Complete**
-**02: Your First Magic Prompt** | ✅ **Complete**
-**03: The Persona Pattern** | 🚧 **In Progress**
-**04: Show and Tell (Few-Shot Learning)** | ⌛ **To Do** 
+Chapter | Status | 
+---|---|---
+**01: The 5-Minute Mindset** | ✅ **Complete** | [Chapter 1](Chapters/Chapter%201%20-%20Five%20Minute%20Mindset.md)
+**02: Your First Magic Prompt** | 🚧 **In Progress** | Link 
+**03: The Persona Pattern** | 🚧 **In Progress** | Link 
+**04: Show and Tell (Few-Shot Learning)** | ⌛ **To Do**  
 **05: Thinking Out Loud (Chain-of-Thought)** | ⌛ **To Do** 
 **06: Taming the Output (Formatting)** | ⌛ **To Do** 
 **07: The Art of the Follow-Up (Iteration)** | ⌛ **To Do** 
@@ -113,7 +113,7 @@ This work is licensed under a [MIT License](/LICENSE). You are free to share and
 
 **Ready to stop guessing and start getting great AI answers?**
 
-**Start reading: [Chapter 1: The 5-Minute Mindset](https://deepinfra.com/chapter-1.md)**
+**Start reading: [Chapter 1: The 5-Minute Mindset](Chapters/Chapter%201%20-%20Five%20Minute%20Mindset.md)**
 
 * * *
 
