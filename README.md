@@ -85,10 +85,7 @@ Chapter | Status | Link
 
 This is not a passive read. It’s a practice-first guide.
 
-1. **Read one chapter** (5–10 minutes)  
-2. **Copy the example prompt** into ChatGPT/Claude/Copilot  
-3. **Modify it** to fit your real task  
-4. **Save the version that works best**  
+## 🔄 Current Status: **Writing Sprint!** (EST: Nov  2025)
 
 Within a week, you will be prompting better than 90% of users.
 
