@@ -81,6 +81,31 @@ Chapter | Status | Link
 
 ---
 
+**01. The 5-Minute Mindset**
+- ![01. The 5-Minute Mindset](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/f3c1340cfbbbd7efd867f99ac7846c3cf9a92149/images/images_small/ch1-Specificity_small.png)
+
+**02. Your First Magic Prompt (Specificity)**
+- ![02. Your First Magic Prompt (Specificity)](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/f3c1340cfbbbd7efd867f99ac7846c3cf9a92149/images/images_small/ch2-FiveWandoneH_small.png)
+
+**03: The Persona Pattern**
+
+- ![03: The Persona Pattern](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/f3c1340cfbbbd7efd867f99ac7846c3cf9a92149/images/images_small/ch3-persona-pattern_small.png)
+
+**04. Show and Tell (Few-Shot Learning)**
+- ![04. Show and Tell (Few-Shot Learning)](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/f3c1340cfbbbd7efd867f99ac7846c3cf9a92149/images/images_small/ch4-showand-tell_small.png)
+
+**05. Thinking Out Loud (Chain-of-Thought)**
+- ![05. Thinking Out Loud (Chain-of-Thought)](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/f3c1340cfbbbd7efd867f99ac7846c3cf9a92149/images/images_small/ch5-task_chaining_small.png)
+
+**06. Taming the Output (Formatting)**
+- ![06. Taming the Output (Formatting)](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/f3c1340cfbbbd7efd867f99ac7846c3cf9a92149/images/images_small/ch6-Taming_the_Output_small.png)
+
+**07. The Art of the Follow-Up (Iteration)**
+- ![07. The Art of the Follow-Up (Iteration)](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/f3c1340cfbbbd7efd867f99ac7846c3cf9a92149/images/images_small/ch7-The_Art_of_the_Follow-Up_small.png)
+
+**08. Negative Prompting**
+- ![08. Negative Prompting](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/f3c1340cfbbbd7efd867f99ac7846c3cf9a92149/images/images_small/ch8-Negative_prompting_small.png)
+
 # 🙋 How to Use This Book
 
 This is not a passive read. It’s a practice-first guide.
