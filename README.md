@@ -68,11 +68,11 @@ Chapter | Status | Link
 **02. Your First Magic Prompt (Specificity)** | ✅ Complete | [Chapter 2](Chapters/Chapter%202%20-%20Your%20First%20Magic%20Prompt.md)
 **03: The Persona Pattern** | ✅ **Complete** | [Chapter 3](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/main/Chapters/Chapter%2003%20%E2%80%94%20The%20Persona%20Pattern%20(%22Act%20as%E2%80%A6%22).md)
 **04. Show and Tell (Few-Shot Learning)** | ✅ **Complete** | [Chapter 4](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/4a65d295f706cd6322858f778ae14da5187b718e/Chapters/Chapter%2003%20%E2%80%94%20The%20Persona%20Pattern%20(%22Act%20as%E2%80%A6%22).md)
-**05. Thinking Out Loud (Chain-of-Thought)** | 🚧 Writing | Coming soon
-**06. Taming the Output (Formatting)** | ⌛ To Do | Coming soon
-**07. The Art of the Follow-Up (Iteration)** | ⌛ To Do | Coming soon
-**08. Negative Prompting** | ⌛ To Do | Coming soon
-**09. Task Chaining** | ⌛ To Do | Coming soon
+**05. Thinking Out Loud (Chain-of-Thought)** | ✅ **Complete** | [Chapter 5](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/16dc53069cbe7d64c755763afc7362fa0660e674/Chapters/Chapter%2005%20-%20Thinking%20Out%20Loud%20(Chain-of-Thought).md)
+**06. Taming the Output (Formatting)** | ✅ **Complete**  | [Chapter 6](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/16dc53069cbe7d64c755763afc7362fa0660e674/Chapters/Chapter%2006%20-%20Formatting%20(Taming%20the%20Output).md)
+**07. The Art of the Follow-Up (Iteration)** | ✅ **Complete**  | [Chapter 7](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/16dc53069cbe7d64c755763afc7362fa0660e674/Chapters/Chapter%2007%20-%20Iteration%20(Follow-Up).md)
+**08. Negative Prompting** | ✅ **Complete**   | [Chapter 8](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/16dc53069cbe7d64c755763afc7362fa0660e674/Chapters/Chapter%2008%20-%20Negative%20Prompting.md)
+**09. Task Chaining** | 🚧 Under Construction | Coming soon
 **10. The Prompt Recipe Book (Cheat Sheet)** | ⌛ To Do | Coming soon
 **11. Prompting for Images** | ⌛ To Do | Coming soon
 **12. Testing Your Prompts** | ⌛ To Do | Coming soon
