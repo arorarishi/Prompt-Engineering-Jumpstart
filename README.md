@@ -73,9 +73,9 @@ Chapter | Status | Link
 **07. The Art of the Follow-Up (Iteration)** | ✅ **Complete**  | [Chapter 7](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/16dc53069cbe7d64c755763afc7362fa0660e674/Chapters/Chapter%2007%20-%20Iteration%20(Follow-Up).md)
 **08. Negative Prompting** | ✅ **Complete**   | [Chapter 8](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/16dc53069cbe7d64c755763afc7362fa0660e674/Chapters/Chapter%2008%20-%20Negative%20Prompting.md)
 **09. Task Chaining** | ✅ **Complete** | [Chapter 9](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/4d473bea34d1bcb7e9cdba0ee93ac5f20e8ccdd9/Chapters/Chapter%2009%20-%20Task%20Chaining%20(Modular%20Decomposition%20for%20AI%20Reasoning).md)
-**10. The Prompt Recipe Book (Cheat Sheet)** | 🚧 Under Construction | Coming soon
+**10. The Prompt Recipe Book (Cheat Sheet)** | ✅ **Complete**  | [Chapter 10](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/fe1f2495c857930184b58d9243ba0d83f7d0b49a/Chapters/Chapter%2010%20-%20Prompt%20Recipe%20Book.md
 **11. Prompting for Images** | ⌛ To Do | Coming soon
-**12. Testing Your Prompts** | ⌛ To Do | Coming soon
+**12. Testing Your Prompts** | 🚧 Under Construction | Coming soon
 **13. Avoiding Bad Answers (Limitations)** | ⌛ To Do | Coming soon
 **14. Capstone: Putting It All Together** | ⌛ To Do | Coming soon
 
