@@ -64,8 +64,8 @@ Each chapter includes:
 
 Chapter | Status | Link
 ---|---|---
-**01. The 5-Minute Mindset** | ✅ Complete | [Chapter 1](Chapters/Chapter%201%20-%20Five%20Minute%20Mindset.md)
-**02. Your First Magic Prompt (Specificity)** | ✅ Complete | [Chapter 2](Chapters/Chapter%202%20-%20Your%20First%20Magic%20Prompt.md)
+**01. The 5-Minute Mindset** | ✅ Complete | [Chapter 1](Chapters/Chapter%2001%20-%20Five%20Minute%20Mindset.md)
+**02. Your First Magic Prompt (Specificity)** | ✅ Complete | [Chapter 2](Chapters/Chapter%2002%20-%20Your%20First%20Magic%20Prompt.md)
 **03: The Persona Pattern** | ✅ **Complete** | [Chapter 3](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/main/Chapters/Chapter%2003%20%E2%80%94%20The%20Persona%20Pattern%20(%22Act%20as%E2%80%A6%22).md)
 **04. Show and Tell (Few-Shot Learning)** | ✅ **Complete** | [Chapter 4](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/4a65d295f706cd6322858f778ae14da5187b718e/Chapters/Chapter%2003%20%E2%80%94%20The%20Persona%20Pattern%20(%22Act%20as%E2%80%A6%22).md)
 **05. Thinking Out Loud (Chain-of-Thought)** | ✅ **Complete** | [Chapter 5](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/16dc53069cbe7d64c755763afc7362fa0660e674/Chapters/Chapter%2005%20-%20Thinking%20Out%20Loud%20(Chain-of-Thought).md)
