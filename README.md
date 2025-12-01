@@ -106,6 +106,12 @@ Chapter | Status | Link
 **08. Negative Prompting**
 - ![08. Negative Prompting](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/f3c1340cfbbbd7efd867f99ac7846c3cf9a92149/images/images_small/ch8-Negative_prompting_small.png)
 
+**09. Task Chaining**
+- ![Task Chaining](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/e62184c3e7995afa59c9466642d33bf3c6af34e3/images/images_small/ch09-task_chaining_small.png)
+
+**10. The Prompt Recipe Book (Cheat Sheet)**
+- ![The Prompt Recipe Book](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/e62184c3e7995afa59c9466642d33bf3c6af34e3/images/images_small/ch-10_Cheatsheet_small.png)
+
 # 🙋 How to Use This Book
 
 This is not a passive read. It’s a practice-first guide.
