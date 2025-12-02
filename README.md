@@ -110,7 +110,7 @@ Chapter | Status | Link
 - ![Task Chaining](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/e62184c3e7995afa59c9466642d33bf3c6af34e3/images/images_small/ch09-task_chaining_small.png)
 
 **10. The Prompt Recipe Book (Cheat Sheet)**
-- ![The Prompt Recipe Book](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/e62184c3e7995afa59c9466642d33bf3c6af34e3/images/images_small/ch-10_Cheatsheet_small.png)
+- ![The Prompt Recipe Book](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/791d49165bd71359515681af48b9019093247ddd/images/images_small/ch-10_Cheatsheet_small.png)
 
 # 🙋 How to Use This Book
 
