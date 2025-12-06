@@ -74,7 +74,7 @@ Chapter | Status | Link
 **08. Negative Prompting** | ✅ **Complete**   | [Chapter 8](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/16dc53069cbe7d64c755763afc7362fa0660e674/Chapters/Chapter%2008%20-%20Negative%20Prompting.md)
 **09. Task Chaining** | ✅ **Complete** | [Chapter 9](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/4d473bea34d1bcb7e9cdba0ee93ac5f20e8ccdd9/Chapters/Chapter%2009%20-%20Task%20Chaining%20(Modular%20Decomposition%20for%20AI%20Reasoning).md)
 **10. The Prompt Recipe Book (Cheat Sheet)** | ✅ **Complete**  | [Chapter 10](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/fe1f2495c857930184b58d9243ba0d83f7d0b49a/Chapters/Chapter%2010%20-%20Prompt%20Recipe%20Book.md)
-**11. Prompting for Images** | 🚧 Under Construction | Coming soon
+**11. Prompting for Images** | ✅ **Complete** | [Chapter 11](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/511cb91baa0c8808b483bded77536ae6f89d7164/Chapters/Chapter%2011%20-%20Image%20Prompting%20(DALL%C2%B7E%2C%20Midjourney%2C%20Stable%20Diffusion).md)
 **12. Testing Your Prompts** | 🚧 Under Construction | Coming soon
 **13. Avoiding Bad Answers (Limitations)** | ⌛ To Do | Coming soon
 **14. Capstone: Putting It All Together** | ⌛ To Do | Coming soon
@@ -112,6 +112,8 @@ Chapter | Status | Link
 **10. The Prompt Recipe Book (Cheat Sheet)**
 - ![The Prompt Recipe Book](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/791d49165bd71359515681af48b9019093247ddd/images/images_small/ch-10_Cheatsheet_small.png)
 
+**11. Prompting for Images**
+- ![Prompting for Images](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/511cb91baa0c8808b483bded77536ae6f89d7164/images/images_small/ch11-Image_Prompting_small.png)
 # 🙋 How to Use This Book
 
 This is not a passive read. It’s a practice-first guide.
