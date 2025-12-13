@@ -158,7 +158,7 @@ Prompt-Engineering-Jumpstart/
 # 🔄 Roadmap – Writing Sprint (7 Days)
 
 I’m publishing this book **live**.  
-Expect new chapters daily.
+Expect new chapters weekly.
 
 - Add diagrams + animations  
 - Add 50+ ready-to-use prompts  
