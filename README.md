@@ -76,7 +76,7 @@ Chapter | Status | Link
 **10. The Prompt Recipe Book (Cheat Sheet)** | ✅ **Complete**  | [Chapter 10](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/fe1f2495c857930184b58d9243ba0d83f7d0b49a/Chapters/Chapter%2010%20-%20Prompt%20Recipe%20Book.md)
 **11. Prompting for Images** | ✅ **Complete** | [Chapter 11](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/511cb91baa0c8808b483bded77536ae6f89d7164/Chapters/Chapter%2011%20-%20Image%20Prompting%20(DALL%C2%B7E%2C%20Midjourney%2C%20Stable%20Diffusion).md)
 **12. Testing Your Prompts** | ✅ **Complete** | [Chapter 12](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/145ea033409c65e757bc42c2310470648a7e49d2/Chapters/Chapter%2012%20-%20Testing%20Your%20Prompts.md)
-**13. Avoiding Bad Answers (Limitations)** | 🚧 Under Construction | Coming soon
+**13. Avoiding Bad Answers (Limitations)** | ✅ **Complete** | [Chapter 13](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/5398b946be80a390defcebeeebe9e01705e25fb7/Chapters/Chapter%2013%20-%20Avoiding%20Bad%20Answers%20(Limitations).md)
 **14. Capstone: Putting It All Together** | ⌛ To Do | Coming soon
 
 ---
@@ -117,7 +117,9 @@ Chapter | Status | Link
 
 **12 — Testing Your Prompts**
 - ![Chapter 12 — Testing Your Prompts](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/145ea033409c65e757bc42c2310470648a7e49d2/images/images_small/ch12-testing-your-prompt_small.png)
-
+  
+**13 — Avoiding Bad Answers (Limitations)**
+- ![Chapter 13 — Avoiding Bad Answers (Limitations)](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/5398b946be80a390defcebeeebe9e01705e25fb7/images/images_small/ch13-avoiding_bad_answers_small.png)
 # 🙋 How to Use This Book
 This is not a passive read. It’s a practice-first guide.
 
