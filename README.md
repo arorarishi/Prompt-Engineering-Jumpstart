@@ -77,7 +77,7 @@ Chapter | Status | Link
 **11. Prompting for Images** | ✅ **Complete** | [Chapter 11](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/511cb91baa0c8808b483bded77536ae6f89d7164/Chapters/Chapter%2011%20-%20Image%20Prompting%20(DALL%C2%B7E%2C%20Midjourney%2C%20Stable%20Diffusion).md)
 **12. Testing Your Prompts** | ✅ **Complete** | [Chapter 12](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/145ea033409c65e757bc42c2310470648a7e49d2/Chapters/Chapter%2012%20-%20Testing%20Your%20Prompts.md)
 **13. Avoiding Bad Answers (Limitations)** | ✅ **Complete** | [Chapter 13](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/5398b946be80a390defcebeeebe9e01705e25fb7/Chapters/Chapter%2013%20-%20Avoiding%20Bad%20Answers%20(Limitations).md)
-**14. Capstone: Putting It All Together** | ⌛ To Do | Coming soon
+**14. Capstone: Putting It All Together** | ✅ **Complete** | [Chapter 14](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/448324a138843ecfe85874a2ba7c69c59c18c132/Chapters/Chapter%2014%20-%20Capstone%20Putting%20It%20All%20Together.md)
 
 ---
 
@@ -120,6 +120,9 @@ Chapter | Status | Link
   
 **13 — Avoiding Bad Answers (Limitations)**
 - ![Chapter 13 — Avoiding Bad Answers (Limitations)](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/5398b946be80a390defcebeeebe9e01705e25fb7/images/images_small/ch13-avoiding_bad_answers_small.png)
+
+**14 - Putting it All Together : Cpastone Project**
+- ![Chapter 14](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/448324a138843ecfe85874a2ba7c69c59c18c132/images/images_small/ch14-putting_it_all_together_small.png)
 # 🙋 How to Use This Book
 This is not a passive read. It’s a practice-first guide.
 
@@ -150,7 +153,7 @@ Prompt-Engineering-Jumpstart/
 ├── Chapters/
 │ ├── Chapter 1 – Five Minute Mindset.md
 │ ├── Chapter 2 – Your First Magic Prompt.md
-│ └── (more coming…)
+│ └── ........
 │
 ├── examples/ # Copy-paste prompts (coming soon)
 ├── images/ # Diagrams, visuals
